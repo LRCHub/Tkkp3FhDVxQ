@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "HOLLOW HUNGER",
+  "base_artist": "OxT",
+  "createdAt": "2026-01-12T10:31:01.430083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/01_HOLLOW_HUNGER_OxT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/02_HOLLOW_HUNGER_OxT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "Ironmouse feat. shirobeats & ThunderScott",
+      "has_synced": false,
+      "path": "select/03_HOLLOW_HUNGER_Ironmouse_feat._shirobeats_&_ThunderScott.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "Ironmouse",
+      "has_synced": false,
+      "path": "select/04_HOLLOW_HUNGER_Ironmouse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/05_HOLLOW_HUNGER_OxT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/06_HOLLOW_HUNGER_OxT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "Ironmouse, shirobeats, ThunderScott",
+      "has_synced": true,
+      "path": "select/07_HOLLOW_HUNGER_Ironmouse,_shirobeats,_ThunderScott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hollow Hunger",
+      "artist": "Cole Staggs",
+      "has_synced": true,
+      "path": "select/08_Hollow_Hunger_Cole_Staggs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hollow Hunger (From Overlord)",
+      "artist": "Shawn Christmas",
+      "has_synced": false,
+      "path": "select/09_Hollow_Hunger_(From_Overlord)_Shawn_Christmas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/10_HOLLOW_HUNGER_OxT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOLLOW HUNGER",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/pl_01_HOLLOW_HUNGER_OxT.txt"
+    }
+  ]
+}
